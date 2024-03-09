@@ -2,7 +2,7 @@
 	"name": "salesforce-scanner",
 	"displayName": "Salesforce Scanner",
 	"description": "Scan code with ESLint",
-	"publisher": "Salesforce Scanner",
+	"publisher": "sf-scanner-szx1b",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.87.0"
